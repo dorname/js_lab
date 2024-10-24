@@ -1,0 +1,15 @@
+{
+	"name": "Codespaces JS/TS",
+	"extensions": [
+		"github.vscode-github-actions"
+	],
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"editor.formatOnSave": true,
+		"files.exclude": {
+			"**/CODE_OF_CONDUCT.md": true,
+			"**/LICENSE": true
+		}
+	}
+	// "runArgs": ["-e","HTTP_PROXY=http://192.168.21.233:7890","-e","HTTPS_PROXY=http://192.168.21.233:7890"]
+}
