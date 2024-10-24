@@ -1,7 +1,16 @@
 {
 	"name": "Codespaces JS/TS",
 	"extensions": [
-		"github.vscode-github-actions"
+		"github.vscode-github-actions",
+		"dbaeumer.vscode-eslint",
+		"steoates.autoimport",
+		"orta.vscode-jest",
+		"ms-vscode.js-debug",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"esbenp.prettier-vscode",
+		"alibaba-cloud.tongyi-lingma",
+		"ms-vscode.vscode-typescript-next"
 	],
 	"dockerFile": "Dockerfile",
 	"settings": {
